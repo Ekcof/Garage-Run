@@ -1,5 +1,5 @@
 <a href="url"><img src="https://github.com/Ekcof/Garage-Run/blob/master/1.png" align="left" height="140" width="250" ></a>
-<a href="url"><img src="https://github.com/Ekcof/Garage-Run/blob/master/2.png" align="left" height="140" width="250" ></a>__
+<a href="url"><img src="https://github.com/Ekcof/Garage-Run/blob/master/2.png" align="left" height="140" width="250" ></a>
 <br />
 **Description** Father sent you to get some car batteries for some good reason. But you know only one place where you can get this stuff - garage park.
 
