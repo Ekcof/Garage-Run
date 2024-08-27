@@ -1,8 +1,6 @@
 <a href="url"><img src="https://github.com/Ekcof/Garage-Run/blob/master/1.png" align="left" height="140" width="250" ></a>
 <a href="url"><img src="https://github.com/Ekcof/Garage-Run/blob/master/2.png" align="left" height="140" width="250" ></a>
-</br>
-</br>
-</br>
+
 **Description** Father sent you to get some car batteries for some good reason. But you know only one place where you can get this stuff - garage park.
 
 Your goal is to steal 5 car batteries from this location and bring them to the gates of this garage park. Beware of angry mobs. They are quite fast as well as stupid. But You have a superpower! You can scale... hm.. shrink yourself to pass the narrow spaces between garages (in some cases). So they won't get you there.
@@ -22,7 +20,9 @@ All the assets except of apartment blocks I created myself.
 
 
 **INSTALLATION:**
+
 Unpack the zip-file and play 
+
 **I used following plugins:**
 
 [Zenject](https://github.com/modesttree/Zenject)
