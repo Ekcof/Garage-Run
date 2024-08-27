@@ -34,3 +34,7 @@ Unpack the zip-file and play
 [UniRX](https://assetstore.unity.com/packages/tools/integration/unirx-reactive-extensions-for-unity-17276)
 
 [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
+
+**Additional information**
+
+This game was developed in solo for [GMTK-2024 game jam](https://algiskhasanov.itch.io/garage-run)
