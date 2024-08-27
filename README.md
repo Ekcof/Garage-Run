@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/Ekcof/SummonLudumJam/blob/main/scr1.png](https://github.com/Ekcof/Garage-Run/blob/master/1.png)
+![Screenshot](https://github.com/Ekcof/Garage-Run/blob/master/1.png)
 **Description** Father sent you to get some car batteries for some good reason. But you know only one place where you can get this stuff - garage park.
 
 Your goal is to steal 5 car batteries from this location and bring them to the gates of this garage park. Beware of angry mobs. They are quite fast as well as stupid. But You have a superpower! You can scale... hm.. shrink yourself to pass the narrow spaces between garages (in some cases). So they won't get you there.
